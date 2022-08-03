@@ -1,0 +1,1 @@
+{"name":"Local: 10_ceil_in_sorted_array","url":"/home/tushar/codes/Binary Search/10_ceil_in_sorted_array.cpp","tests":[{"id":1659501640489,"input":"10\n10 20 30 40 55 66 77 88 99 121\n150","output":""}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"/home/tushar/codes/Binary Search/10_ceil_in_sorted_array.cpp","group":"local","local":true}
